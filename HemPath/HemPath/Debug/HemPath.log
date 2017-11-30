@@ -1,0 +1,10 @@
+﻿  Source.cpp
+d:\users\user-pc\source\repos\hempath\hempath\source.cpp(17): warning C4101: 'count': unreferenced local variable
+d:\users\user-pc\source\repos\hempath\hempath\source.cpp(192): warning C4101: 'p': unreferenced local variable
+d:\users\user-pc\source\repos\hempath\hempath\source.cpp(192): warning C4101: 'l': unreferenced local variable
+d:\users\user-pc\source\repos\hempath\hempath\source.cpp(211): warning C4101: 'temp2': unreferenced local variable
+d:\users\user-pc\source\repos\hempath\hempath\source.cpp(211): warning C4101: 'temp': unreferenced local variable
+d:\users\user-pc\source\repos\hempath\hempath\source.cpp(416): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\users\user-pc\source\repos\hempath\hempath\source.cpp(417): warning C4101: 'i': unreferenced local variable
+d:\users\user-pc\source\repos\hempath\hempath\source.cpp(417): warning C4101: 'n': unreferenced local variable
+  HemPath.vcxproj -> D:\Users\User-PC\source\repos\HemPath\Debug\HemPath.exe
